@@ -1,0 +1,28 @@
+body{
+    background-color: #edffec;
+   }
+   
+   hr{
+       background-color: white;
+       width: 10%;
+       border-style: dotted none none;
+       border-color: rgb(191, 215, 241);
+       border-width: 5px;
+       width: 5%;
+       
+   }
+
+   h1{
+       color: rgb(43, 190, 226);
+       ;
+   }
+
+   h2{
+    color: rgb(43, 190, 226);
+    font-family: cursive;
+   }
+
+   h3{
+    color: rgb(43, 190, 226);
+    font-family: cursive;
+   }
